@@ -1,13 +1,13 @@
 {
   "name": "cra-template-typescript-sass-modules",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Typescript + SASS Modules template for Create React App.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raymon-sun/cra-template-typescript-css-modules.git"
+    "url": "git+https://github.com/raymon-sun/cra-template-typescript-sass-modules.git"
   },
   "keywords": [
     "react",
@@ -21,7 +21,7 @@
   "author": "Guodong Sun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raymon-sun/cra-template-typescript-css-modules/issues"
+    "url": "https://github.com/raymon-sun/cra-template-typescript-sass-modules/issues"
   },
-  "homepage": "https://github.com/raymon-sun/cra-template-typescript-css-modules#readme"
+  "homepage": "https://github.com/raymon-sun/cra-template-typescript-sass-modules#readme"
 }
